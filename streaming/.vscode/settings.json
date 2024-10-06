@@ -1,0 +1,13 @@
+{
+    "liveServer.settings.port": 5501
+    
+}
+@import url("filme1.css") print;
+@import url("filme2.css") print;
+@import url("filme3.css") print;
+@import url("filme4.css") print;
+@import url("filme5.css") print;
+@import url("filme6.css") print;
+@import url("filme7.css") print;
+@import url("filme8.css") print;
+@import url("index.css") print;
